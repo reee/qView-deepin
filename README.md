@@ -89,7 +89,7 @@ PACKAGING.md          # 本文件
 ### 常见问题
 
 1. **编译失败**
-   - 确保安装了 Qt5 开发包：`sudo apt install qtbase5-dev qttools5-dev-tools`
+   - 确保安装了 Qt5 开发包：`sudo apt install qtbase5-dev qttools5-dev-tools libqt5x11extras-dev`
 
 2. **缺少依赖**
    - 检查系统是否安装了必要的 Qt5 运行时库
